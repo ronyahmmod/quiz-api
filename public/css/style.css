@@ -1,0 +1,29 @@
+*,*::after,*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif, "Roboto";
+    padding: 20px;
+    background-color: #999;
+}
+
+
+
+.api__title {
+    font-size: 45px;
+    color: #333;
+}
+
+.api__description {
+    font-size: 32px;
+    margin-top: 24px;
+}
+
+.quiz {
+    background-color: #fff;
+    padding: 30px;
+    margin-top: 30px;
+}
