@@ -4,7 +4,8 @@
   "description": "This is a simple quiz-api",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js",
+    "start:prod": "nodemon server.js"
   },
   "keywords": [
     "quiz-api",
